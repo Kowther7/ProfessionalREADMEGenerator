@@ -1,0 +1,76 @@
+{
+  "licenses": [
+    {
+      "name": "Apache",
+      "nameDisplayed": "Apache 2.0 License",
+      "badge": "[![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)]",
+      "link": "(https://opensource.org/licenses/Apache-2.0)"
+    },
+    {
+      "name": "Boost",
+      "nameDisplayed": "Boost Software License 1.0",
+      "badge": "[![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)]",
+      "link": "(https://opensource.org/licenses/Apache-2.0)"
+    },
+    {
+      "name": "BSD",
+      "nameDisplayed": "BSD 3-Clause License",
+      "badge": "[![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)]",
+      "link": "(https://opensource.org/licenses/BSD-3-Clause)"
+    },
+    {
+      "name": "Eclipse",
+      "nameDisplayed": "Eclipse Public License 1.0",
+      "badge": "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)]",
+      "link": "(https://opensource.org/licenses/EPL-1.0)"
+    },
+    {
+      "name": "GNU",
+      "nameDisplayed": "GNU GPL v3",
+      "badge": "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]",
+      "link": "(https://opensource.org/licenses/EPL-1.0)"
+    },
+    {
+      "name": "IBM",
+      "nameDisplayed": "IBM Public License Version 1.0",
+      "badge": "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)]",
+      "link": "(https://opensource.org/licenses/IPL-1.0)"
+    },
+    {
+      "name": "ISC",
+      "nameDisplayed": "ISC License (ISC)",
+      "badge": "[![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)]",
+      "link": "(https://opensource.org/licenses/ISC)"
+    },
+    {
+      "name": "MIT",
+      "nameDisplayed": "The MIT License",
+      "badge": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]",
+      "link": "(https://opensource.org/licenses/MIT)"
+    },
+    {
+      "name": "Mozilla",
+      "nameDisplayed": "Mozilla Public License 2.0",
+      "badge": "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]",
+      "link": "(https://opensource.org/licenses/MPL-2.0)"
+    },
+    {
+      "name": "Perl",
+      "nameDisplayed": "The Perl License",
+      "badge": "[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)]",
+      "link": "(https://opensource.org/licenses/Artistic-2.0)"
+    },
+    {
+      "name": "SIL",
+      "nameDisplayed": "SIL Open Font License 1.1",
+      "badge": "[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)]",
+      "link": "(https://opensource.org/licenses/OFL-1.1)"
+    },
+    {
+      "name": "Unlicense",
+      "nameDisplayed": "The Unlicense",
+      "badge": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)]",
+      "link": "(http://unlicense.org/)"
+    }
+  ]
+}
