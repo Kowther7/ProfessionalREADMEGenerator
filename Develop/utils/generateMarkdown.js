@@ -1,5 +1,5 @@
 const licensesFile = require("./licenses.json");
-// TODO: Create a function that returns a license badge based on which license is passed in
+// done : Create a function that returns a license badge based on which license is passed in
 
 // get license by name
 function getLicenseData(name) {
@@ -14,12 +14,12 @@ function renderLicenseBadge(licenseObject) {
 
 
 
-// TODO: Create a function that returns the license link
+// done: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(licenseObject) {
   return licenseObject ? `${licenseObject[0].link}` : ``;
 }
-// TODO: Create a function that returns the license section of README
+// done: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(licenseName) {
   let licenseFound = getLicenseData(licenseName);
@@ -28,7 +28,7 @@ function renderLicenseSection(licenseName) {
   return `${licenseBadge}${licenseLink}`;
 }
 
-// TODO: Create a function to generate markdown for README
+// done: Create a function to generate markdown for README
 function generateMarkdown ({
   ProjectName,
   WhyThisProject,
@@ -65,7 +65,15 @@ ${username}
 ## email
 ${email}
 
+## Table of Contents
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
 To run the project locally, follow these steps:
 
 1. Open Visual Studio on your computer.

@@ -17,10 +17,13 @@ Proficiency in using the fs library for file operations.
 Understanding the implementation of inquirer for user prompts.
 
 ## Table of Contents
-Installation
-Usage
-Credits
-Questions
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Questions](#questions)
+
 
 ## Installation
 To run the project locally, follow these steps:
@@ -36,9 +39,11 @@ For a visual guide, refer to the usage section.
 ## Usage
 Upon running the project, you'll be prompted to input details about your project, facilitating the automatic creation of a professional README file. Watch this video for a demonstration.
 ## video 
-https://drive.google.com/file/d/1bI85aGamhKpvaKQ9aBHQHTmP7uV8gjpt/view
 
-![Readme usage](assets/img/ProfessionalREADMEGenerator video .gif)
+https://drive.google.com/file/d/1X9VpZZKVMeJILymGg6X7T2g4t_Vbw-7i/view
+
+
+![Readme usage](assets/img/gif.gif)
 
 ## Credits
 The project relied on the following resources:
@@ -48,4 +53,4 @@ Module 09 information provided in Canva.
 
 
 ## Questions
-For any queries, feel free to reach out directly via email kowthwer.kahin@gmail.com
+For any queries, feel free to reach out directly via email kowther.kahin@gmail.com
